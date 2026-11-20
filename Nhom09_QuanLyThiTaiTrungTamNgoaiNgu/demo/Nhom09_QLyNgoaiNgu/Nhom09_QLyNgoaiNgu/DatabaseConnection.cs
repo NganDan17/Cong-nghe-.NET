@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,10 +12,18 @@ namespace Nhom09_QLyNgoaiNgu
 
     internal class DatabaseConnection
     {
-        private static string strConn = @"Data Source=Mengie;Initial Catalog=QL_NGOAINGU;User ID=sa;Password=123;TrustServerCertificate=True";
+        private static string GetConnectionString()
+        {
+            var environment = Environment.GetEnvironmentVariable("QL_NGOAINGU_CONNECTION_STRING");
+            if (!string.IsNullOrWhiteSpace(environment)) return environment;
+            var settings = ConfigurationManager.ConnectionStrings["QL_NGOAINGU"];
+            if (settings == null || string.IsNullOrWhiteSpace(settings.ConnectionString))
+                throw new InvalidOperationException("Chưa có cấu hình cơ sở dữ liệu. Chạy KhoiTao.ps1 trước khi mở ứng dụng.");
+            return settings.ConnectionString;
+        }
         public static SqlConnection GetConnection()
         {
-            return new SqlConnection(strConn);
+            return new SqlConnection(GetConnectionString());
         }
         public static int ExecuteNonQuery(string sqlQuery, SqlParameter[] parameters = null)
         {
