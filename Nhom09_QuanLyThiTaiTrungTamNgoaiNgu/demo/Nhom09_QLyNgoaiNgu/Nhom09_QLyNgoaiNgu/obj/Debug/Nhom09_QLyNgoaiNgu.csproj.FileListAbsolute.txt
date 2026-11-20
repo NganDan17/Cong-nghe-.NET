@@ -1,0 +1,895 @@
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\Huit\CNET\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmAdmin.resources
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmAdmin.resources
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+C:\Users\DELL\Downloads\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmAdmin.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+E:\CN.Net\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmAdmin.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmPhanCongCoiThi.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmKetQuaTimKiem.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLKyThi.resources
+E:\Huit\CNET\Lan1\demo\demo\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmXepPhongThi.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmAdmin.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmKetQuaTimKiem.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmPhanCongCoiThi.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLKyThi.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmXepPhongThi.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+C:\Users\DELL\Downloads\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLDiemThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmAdmin.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmKetQuaTimKiem.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmNhatKyHoatDong.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmPhanCongCoiThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLChungChi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLDiemThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLKyThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLPhongThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLThanhToan.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmTTCaNhan.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmXepPhongThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHocVien.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmLichThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmThanhToan.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmKetQua.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHoSo.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQuyDinh.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmChiTietBaiThi.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmInBaoCao.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.Shared.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\stdole.dll
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLQuyenHan.resources
+E:\CN.Net\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmAdmin.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmKetQuaTimKiem.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmNhatKyHoatDong.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmPhanCongCoiThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLChungChi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLDiemThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLKyThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLPhongThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLQuyenHan.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLThanhToan.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQuyDinh.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmTTCaNhan.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmXepPhongThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmInBaoCao.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmChiTietBaiThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHocVien.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHoSo.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmKetQua.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmLichThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmThanhToan.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\Huit\CNET\Lan7\demo (1)\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Nhom09_QLyNgoaiNgu.pdb
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.Shared.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\stdole.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Core.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Azure.Identity.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Options.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Buffers.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ClientModel.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Memory.Data.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Numerics.Vectors.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.AccessControl.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Security.Principal.Windows.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Encodings.Web.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Text.Json.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\System.ValueTuple.xml
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.AssemblyReference.cache
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe.config
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmAdmin.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmKetQuaTimKiem.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmNhatKyHoatDong.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmPhanCongCoiThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLAdmin.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLChungChi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLDiemThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLKyThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLPhongThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLQuyenHan.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQLThanhToan.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmQuyDinh.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmTTCaNhan.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Admin.frmXepPhongThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmDangNhap.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLThiSinh.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmInBaoCao.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmChiTietBaiThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHocVien.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmHoSo.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmKetQua.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmLichThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.HocVien.frmThanhToan.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.Properties.Resources.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.frmQLGiamThi.resources
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.GenerateResource.cache
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_Q.60AF3FFF.Up2Date
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.exe
+E:\CN.Net\Nhom09_QuanLyThiNgoaiNgu\Nhom09_QuanLyThiTaiTrungTamNgoaiNgu\demo\Nhom09_QLyNgoaiNgu\Nhom09_QLyNgoaiNgu\obj\Debug\Nhom09_QLyNgoaiNgu.pdb

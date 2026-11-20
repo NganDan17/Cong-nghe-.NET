@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IndsChungChi" targetNamespace="http://tempuri.org/IndsChungChi.xsd" xmlns:mstns="http://tempuri.org/IndsChungChi.xsd" xmlns="http://tempuri.org/IndsChungChi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="IndsChungChi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="IndsChungChi" msprop:Generator_DataSetName="IndsChungChi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtChungChi" msprop:Generator_RowEvHandlerName="dtChungChiRowChangeEventHandler" msprop:Generator_RowDeletedName="dtChungChiRowDeleted" msprop:Generator_RowDeletingName="dtChungChiRowDeleting" msprop:Generator_RowEvArgName="dtChungChiRowChangeEvent" msprop:Generator_TablePropName="dtChungChi" msprop:Generator_RowChangedName="dtChungChiRowChanged" msprop:Generator_RowChangingName="dtChungChiRowChanging" msprop:Generator_TableClassName="dtChungChiDataTable" msprop:Generator_RowClassName="dtChungChiRow" msprop:Generator_TableVarName="tabledtChungChi" msprop:Generator_UserTableName="dtChungChi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HoTen" msprop:Generator_ColumnPropNameInRow="HoTen" msprop:Generator_ColumnPropNameInTable="HoTenColumn" msprop:Generator_ColumnVarNameInTable="columnHoTen" msprop:Generator_UserColumnName="HoTen" type="xs:string" minOccurs="0" />
+              <xs:element name="MaChungChi" msprop:Generator_ColumnPropNameInRow="MaChungChi" msprop:Generator_ColumnPropNameInTable="MaChungChiColumn" msprop:Generator_ColumnVarNameInTable="columnMaChungChi" msprop:Generator_UserColumnName="MaChungChi" type="xs:string" minOccurs="0" />
+              <xs:element name="SoChungChi" msprop:Generator_ColumnPropNameInRow="SoChungChi" msprop:Generator_ColumnPropNameInTable="SoChungChiColumn" msprop:Generator_ColumnVarNameInTable="columnSoChungChi" msprop:Generator_UserColumnName="SoChungChi" type="xs:string" minOccurs="0" />
+              <xs:element name="NgayCap" msprop:Generator_ColumnPropNameInRow="NgayCap" msprop:Generator_ColumnPropNameInTable="NgayCapColumn" msprop:Generator_ColumnVarNameInTable="columnNgayCap" msprop:Generator_UserColumnName="NgayCap" type="xs:string" minOccurs="0" />
+              <xs:element name="TrangThai" msprop:Generator_ColumnPropNameInRow="TrangThai" msprop:Generator_ColumnPropNameInTable="TrangThaiColumn" msprop:Generator_ColumnVarNameInTable="columnTrangThai" msprop:Generator_UserColumnName="TrangThai" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
